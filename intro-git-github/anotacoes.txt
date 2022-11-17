@@ -1,0 +1,19 @@
+GITHUB / GIT
+-Sintaxe basica MARKDOWN
+https://www.markdownguide.org/basic-syntax/
+
+-passo a passo para commitar projetos
+
+*Clonar repositório
+Copiar HTTPs
+abrir o git bash here na pasta que deseja inserir o repositorio clonado
+"git clone + link http"
+
+- adicionar novos arquivos
+git add .
+
+-enviar para o github
+"git commit -m "msg sobre o commit"
+
+"git push origin main"
+
